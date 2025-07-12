@@ -21,6 +21,6 @@ Welcome to my GitHub profile! I'm a B.Tech 2nd-year IT student at UIT, RGPV Bhop
 
 ## 📫 Get in Touch
 
-- **GitHub:** [Arijeet005](https://github.com/Arijeet005)  
-- **LinkedIn:** [Arijeet Panchotia](https://www.linkedin.com/in/arijeet-panchotia-009b61292/)  
-- **Email:** [arijeetpanchotia09@gmail.com](mailto:arijeetpanchotia09@gmail.com)
+- **GitHub:** [@Arijeet005](https://github.com/Arijeet005)  
+- **LinkedIn:** [@Arijeet Panchotia](https://www.linkedin.com/in/arijeet-panchotia-009b61292/)  
+- **Email:** [@arijeetpanchotia09@gmail.com](mailto:arijeetpanchotia09@gmail.com)
